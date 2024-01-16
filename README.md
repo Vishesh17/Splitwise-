@@ -1,5 +1,4 @@
-Splitter C++ Program
-Overview
+Splitter C++ Program Overview
 Splitter is a C++ program designed to manage group expenses and settle debts within a group of people. The program allows users to create and manage groups, add expenses, transfer money, and settle debts efficiently.
 
 Features
